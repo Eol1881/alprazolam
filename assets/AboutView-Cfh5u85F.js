@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as n,o}from"./index-B6XE90dU.js";const a={},c={class:"lg:min-h-screen lg:flex lg:items-center"};function r(l,e){return o(),t("div",c,e[0]||(e[0]=[n("h1",null,"This is an about page",-1)]))}const _=s(a,[["render",r]]);export{_ as default};
